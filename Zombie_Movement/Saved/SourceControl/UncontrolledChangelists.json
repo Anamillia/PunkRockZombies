@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dda/Documents/Unreal Projects/Zombie_Movement/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/dda/Documents/Unreal Projects/Zombie_Movement/Content/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01_Montage.uasset",
+				"C:/Users/dda/Documents/Unreal Projects/Zombie_Movement/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"C:/Users/dda/Documents/Unreal Projects/Zombie_Movement/Content/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_02_Montage.uasset",
+				"C:/Users/dda/Documents/Unreal Projects/Zombie_Movement/Content/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_03_Montage.uasset"
+			]
+		}
+	]
+}
